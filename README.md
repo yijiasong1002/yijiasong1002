@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Solid foundation in business, mathematics, statistics, data analytics and data science
+Passionate about creating positive, collaborative environments where teams can thrive and achieve their best work
+Programming Skills: Python (Pandas, NumPy, Sklearn, Matplotlib), R, SQL, Google Data Studio, Google BigQuery, Tableau
+
+Bachelor’s Degree in the D'Amore-McKim School of Business at Northeastern University
+
 <!--
 **yijiasong1002/yijiasong1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
